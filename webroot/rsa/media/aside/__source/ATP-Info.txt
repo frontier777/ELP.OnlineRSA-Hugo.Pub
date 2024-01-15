@@ -1,0 +1,26 @@
+[Method for Affinity Photo 1.x]
+
+Start with the png file
+Add white background layer
+Resize document to 316px wide
+
+Add 8px border all around
+Note: If the resizing isn't done as follows the image gets blurred due to half pixel canvas resizing.
+Break lock then resize canvas to 330 px wide center+middle align
+
+For NSW:
+Break lock then resize canvas to 79 px high center+bottom align
+Break lock then resize canvas to 87 px high center+top align
+
+For VIC:
+58 + 8 = 66
+then +8 = 74
+
+Fill in white around the new borders
+
+Export to jpg with default options
+
+----------------------
+
+20230711
+https://www.dropbox.com/scl/fi/6hhqxapwhtaqnc1ephqgc/ATP-RSA-RCG-logos-no-date.zip?dl=0&file_subpath=%2FATP-RSA-RCG-logos-no-date&rlkey=gz2eehwvyswt1lejfg37e4eug

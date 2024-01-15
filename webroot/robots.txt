@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /user/login/
+Disallow: /user/register/
+Disallow: /user/forgotpassword/
+Disallow: /content/search
+Disallow: /content/advancedsearch
+Disallow: /layout/set/print/
+Disallow: /content/view/full/
+Disallow: /content/tipafriend/
+Disallow: /index.php/
+
+# new 20181031
+Disallow: /content/keyword/
+Disallow: /content/view/
+Disallow: /content/ezinfo/
+Disallow: /Media/Banners/
+Disallow: /Media/Images/
+Disallow: /var/ezdemo_site/storage/images
+
+# new 20190110
+Disallow: /rsa/RSA-Online-Training/RSA-Online-6-State/All-States-Images/
+Disallow: /rsa/RSA-Online-Training/RSA-Online-ACT-Australian-Capital-Territory-RSA-Certificate/ACT-Images/
+Disallow: /rsa/RSA-Online-Training/RSA-Online-NSW-New-South-Wales-RSA-Certificate/NSW-Images/
+
+Sitemap: https://onlinersa.com.au/sitemap.xml

@@ -1,0 +1,5 @@
+Originally from:
+C:\Data\Web Sites\elearningportal.com.au-resource\elp\elp-rsa-promo
+
+
+<iframe id="OnlineRSADemo" loading="lazy" src="https://resource.elearningportal.com.au/elp/elp-rsa-promo/index.html" style="position:absolute;border:0px #FFFFFF none;width:1px;min-width:100%;*width:100%;height:1px;min-height:100%;*height:100%;" name="onlinersa demo" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px"></iframe>
