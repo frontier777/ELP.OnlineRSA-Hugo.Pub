@@ -18,6 +18,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url><url>
+    <loc>https://onlinersa.com.au/official_rsa_certificate/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://onlinersa.com.au/rsa/Wine/Introduction-to-Wine.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -49,6 +53,26 @@
     <loc>https://onlinersa.com.au/complaints/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.1</priority>
+  </url><url>
+    <loc>https://onlinersa.com.au/all_states_rsa/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://onlinersa.com.au/carbon_neutral_rsa/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://onlinersa.com.au/ethical_rsa_course/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://onlinersa.com.au/the_original_online_rsa/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://onlinersa.com.au/money_back_guarantee/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://onlinersa.com.au/rsa/Contact-Us/Money-Back-Guarantee-Refund-Policy.html</loc>
     <changefreq>weekly</changefreq>
@@ -126,6 +150,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://onlinersa.com.au/western_aust/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://onlinersa.com.au/western_australia/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -133,6 +161,10 @@
     <loc>https://onlinersa.com.au/rsa/RSA-Online-Training/RSA-Online-SA-South-Australia-RSA-Certificate.html</loc>
     <changefreq>daily</changefreq>
     <priority>1</priority>
+  </url><url>
+    <loc>https://onlinersa.com.au/same_day_rsa_certificate/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://onlinersa.com.au/rsa/FAQ/State-by-State-Requirements.html</loc>
     <changefreq>weekly</changefreq>
