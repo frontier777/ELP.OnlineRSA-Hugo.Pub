@@ -19,6 +19,23 @@ RewriteRule ^(.*)$ https://onlinersa.com.au/$1 [L,R=301]
 RewriteRule ^index.html$ / [R=301,NC,L]
 RewriteRule ^index.html(.+)$ /$1 [R=301,NC,L]
 
+
+# manually added from GSC 20240128
+RewriteRule ^rsa/Login.html$ /login/ [R=301,NC,L]
+RewriteRule ^rsa/Login$ /login/ [R=301,NC,L]
+RewriteRule ^rsa/FAQ/State-by-State-Requirements.html/1000$ /rsa/FAQ/State-by-State-Requirements.html [R=301,NC,L]
+RewriteRule ^rsa/RSA-Online-Training/RSA-Online-NT-Northern-Territory-RSA-Certificate.html/1000$ /rsa/RSA-Online-Training/RSA-Online-NT-Northern-Territory-RSA-Certificate.html [R=301,NC,L]
+RewriteRule ^rsa/RSA-Online-Training/RSA-Online-TAS-Tasmania-RSA-Certificate.html/1000$ /rsa/RSA-Online-Training/RSA-Online-TAS-Tasmania-RSA-Certificate.html [R=301,NC,L]
+RewriteRule ^rsa/RSA-Online-Training/RSA-Online-WA-Western-Australia-RSA-Certificate.html/1000$ /rsa/RSA-Online-Training/RSA-Online-WA-Western-Australia-RSA-Certificate.html [R=301,NC,L]
+RewriteRule ^rsa/RSA-Online-Training.html/1000$ /rsa/RSA-Online-Training.html [R=301,NC,L]
+RewriteRule ^rsa/RSA-Home$ / [R=301,NC,L]
+RewriteRule ^rsa/RSG/RSG-Online-QLD-NT-WA/WA-Images/rsg-payment-security.html$ / [R=301,NC,L]
+RewriteRule ^rsa/RSG/RSG-Online-QLD-NT-WA/RSA-Western-Australia-Reference-Resources.html$ /rsa/RSA-Online-Training/RSA-Online-WA-Western-Australia-RSA-Certificate.html [R=301,NC,L]
+RewriteRule ^rsa/Contact-Us/Refund-Policy$ /rsa/Contact-Us/Money-Back-Guarantee-Refund-Policy.html [R=301,NC,L]
+RewriteRule ^rsa/RSA-Online-Training/Student-Travelling-on-Subclass-500-Visas-and-RSA-Training.html$ /rsa/FAQ/About-the-Course.htm [R=301,NC,L]
+RewriteRule ^rsa/RSA-Online-Training/RSA-Online-all-states$ /all_states_rsa/ [R=301,NC,L]
+RewriteRule ^RSA-ONLINE/RSA-Online-Training/RSA-Online-WA-Western-Australia-RSA-Certificate$ /rsa/RSA-Online-Training/RSA-Online-WA-Western-Australia-RSA-Certificate.html [R=301,NC,L]
+
 # manually added from 404s analysis, extra slash
 RewriteRule ^rsa/RSA-Online-Training/RSA-Online-NSW-New-South-Wales-RSA-Certificate/$ /rsa/RSA-Online-Training/RSA-Online-NSW-New-South-Wales-RSA-Certificate.html [R=301,NC,L]
 RewriteRule ^rsa/RSA-Online-Training/RSA-Online-WA-Western-Australia-RSA-Certificate/$ /rsa/RSA-Online-Training/RSA-Online-WA-Western-Australia-RSA-Certificate.html [R=301,NC,L]
