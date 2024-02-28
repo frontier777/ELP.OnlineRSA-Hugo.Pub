@@ -94,6 +94,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.1</priority>
   </url><url>
+    <loc>https://onlinersa.com.au/rsa_refresher/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://onlinersa.com.au/reviews/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
