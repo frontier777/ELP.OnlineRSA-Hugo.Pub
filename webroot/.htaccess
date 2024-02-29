@@ -19,7 +19,6 @@ RewriteRule ^(.*)$ https://onlinersa.com.au/$1 [L,R=301]
 RewriteRule ^index.html$ / [R=301,NC,L]
 RewriteRule ^index.html(.+)$ /$1 [R=301,NC,L]
 
-
 # manually added from GSC 20240128
 RewriteRule ^rsa/Login.html$ /login/ [R=301,NC,L]
 RewriteRule ^rsa/Login$ /login/ [R=301,NC,L]
@@ -40,6 +39,11 @@ RewriteRule ^RSA-ONLINE/RSA-Online-Training/RSA-Online-WA-Western-Australia-RSA-
 RewriteRule ^rsa/RSA-Online-Training/RSA-Online-QLD-17$ /rsa/RSA-Online-Training/RSA-Online-QLD-Queensland-RSA-Certificate.html [R=301,NC,L]
 RewriteRule ^rsa/RSA-Online-Training/RSA-Online-QLDQueensland-RSA-Certificate$ /rsa/RSA-Online-Training/RSA-Online-QLD-Queensland-RSA-Certificate.html [R=301,NC,L]
 RewriteRule ^rsa/RSA-Online-Training/RSA-Online-QLD-$ /rsa/RSA-Online-Training/RSA-Online-QLD-Queensland-RSA-Certificate.html [R=301,NC,L]
+
+# manually added from GA4 20240229
+RewriteRule ^ï¿½$ / [R=301,NC,L]
+RewriteRule ^rsa/RSA-Online-Training/RSA-Online-VIC-Victoria-RSA-Certificate.html \$49$ /rsa/RSA-Online-Training/RSA-Online-VIC-Victoria-RSA-Certificate.html [R=301,NC,L]
+RewriteRule ^rsa/rsa-online-training/rsa-online-wa-western-australia-rsa-certificate.html$ /rsa/RSA-Online-Training/RSA-Online-WA-Western-Australia-RSA-Certificate.html [R=301,NC,L]
 
 # manually added from 404s analysis, extra slash
 RewriteRule ^rsa/RSA-Online-Training/RSA-Online-NSW-New-South-Wales-RSA-Certificate/$ /rsa/RSA-Online-Training/RSA-Online-NSW-New-South-Wales-RSA-Certificate.html [R=301,NC,L]
