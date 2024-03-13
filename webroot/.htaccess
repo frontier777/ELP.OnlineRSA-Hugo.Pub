@@ -19,6 +19,29 @@ RewriteRule ^(.*)$ https://onlinersa.com.au/$1 [L,R=301]
 RewriteRule ^index.html$ / [R=301,NC,L]
 RewriteRule ^index.html(.+)$ /$1 [R=301,NC,L]
 
+# restructure site 2024 url structure
+RewriteRule ^rsa/Linking.html$ /sharing/ [R=301,NC,L]
+
+# restructure site 2024 remove web3
+RewriteRule ^rsa/Customer-Reviews/Customer-Reviews.html$ /reviews/ [R=301,NC,L]
+RewriteRule ^rsa/RSA-Online-Training/RSA-Online-SA-South-Australia-RSA-Certificate/SA-Images/5-Star-Hospitality-Training-Logo-RSA-Online-SA.html$ /rsa/RSA-Online-Training/RSA-Online-SA-South-Australia-RSA-Certificate.html [R=301,NC,L]
+RewriteRule ^rsa/RSA-Online-Training/RSA-Online-SA-South-Australia-RSA-Certificate/SA-Images/carbon-neutral-RSA-SA.html$ /rsa/RSA-Online-Training/RSA-Online-SA-South-Australia-RSA-Certificate.html [R=301,NC,L]
+RewriteRule ^rsa/RSA-Online-Training/RSA-Online-SA-South-Australia-RSA-Certificate/SA-Images/Need-Help-SA-RSA-Online.html$ /rsa/RSA-Online-Training/RSA-Online-SA-South-Australia-RSA-Certificate.html [R=301,NC,L]
+RewriteRule ^rsa/RSA-Online-Training/RSA-Online-SA-South-Australia-RSA-Certificate/SA-Images/online-rsa-guarantee-SA.html$ /rsa/RSA-Online-Training/RSA-Online-SA-South-Australia-RSA-Certificate.html [R=301,NC,L]
+RewriteRule ^rsa/RSA-Online-Training/RSA-Online-SA-South-Australia-RSA-Certificate/SA-Images/RSA-online-money-back-guarantee.html$ /rsa/RSA-Online-Training/RSA-Online-SA-South-Australia-RSA-Certificate.html [R=301,NC,L]
+RewriteRule ^rsa/RSA-Online-Training/RSA-Online-SA-South-Australia-RSA-Certificate/SA-Images/RSA-Online-SA-Devices.html$ /rsa/RSA-Online-Training/RSA-Online-SA-South-Australia-RSA-Certificate.html [R=301,NC,L]
+RewriteRule ^rsa/RSA-Online-Training/RSA-Online-SA-South-Australia-RSA-Certificate/SA-Images/rsa-payment-security.html$ /rsa/RSA-Online-Training/RSA-Online-SA-South-Australia-RSA-Certificate.html [R=301,NC,L]
+RewriteRule ^rsa/RSA-Online-Training/RSA-Online-SA-South-Australia-RSA-Certificate/SA-Images/RSA-SA-Free-Training-Course.html$ /rsa/RSA-Online-Training/RSA-Online-SA-South-Australia-RSA-Certificate.html [R=301,NC,L]
+RewriteRule ^rsa/RSA-Online-Training/RSA-Online-SA-South-Australia-RSA-Certificate/SA-Images/rsa-sa-online-sales-support.html$ /rsa/RSA-Online-Training/RSA-Online-SA-South-Australia-RSA-Certificate.html [R=301,NC,L]
+RewriteRule ^rsa/RSA-Online-Training/RSA-Online-SA-South-Australia-RSA-Certificate/SA-Images/rsa-south-australia-on-sale-today-49.html$ /rsa/RSA-Online-Training/RSA-Online-SA-South-Australia-RSA-Certificate.html [R=301,NC,L]
+RewriteRule ^rsa/RSA-Online-Training/RSA-Online-SA-South-Australia-RSA-Certificate/SA-Images/SA-RSA-Nationally-Recognised-Training.html$ /rsa/RSA-Online-Training/RSA-Online-SA-South-Australia-RSA-Certificate.html [R=301,NC,L]
+RewriteRule ^rsa/RSA-Online-Training/RSA-Online-SA-South-Australia-RSA-Certificate/SA-Images/.*$ /rsa/RSA-Online-Training/RSA-Online-SA-South-Australia-RSA-Certificate.html [R=301,NC,L]
+RewriteRule ^rsa/RSA-Online-Training/RSA-Online-QLD-Queensland-RSA-Certificate/.*$ /rsa/RSA-Online-Training/RSA-Online-QLD-Queensland-RSA-Certificate.html [R=301,NC,L]
+RewriteRule ^rsa/RSA-Online-Training/RSA-Online-QLD-Queensland-RSA-Certificate/RSA-QLD-Online-State-Requirements.html$ /rsa/RSA-Online-Training/RSA-Online-QLD-Queensland-RSA-Certificate.html [R=301,NC,L]
+RewriteRule ^rsa/RSA-Online-ACT-Australian-Capital-Territory-RSA-Certificate/.*$ /rsa/RSA-Online-Training/RSA-Online-ACT-Australian-Capital-Territory-RSA-Certificate.html [R=301,NC,L]
+RewriteRule ^content/keyword/.*$ / [R=301,NC,L]
+
+
 # manually added from GSC 20240128
 RewriteRule ^rsa/Login.html$ /login/ [R=301,NC,L]
 RewriteRule ^rsa/Login$ /login/ [R=301,NC,L]
