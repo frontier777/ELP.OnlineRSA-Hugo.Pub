@@ -22,4 +22,7 @@ Disallow: /rsa/RSA-Online-Training/RSA-Online-6-State/All-States-Images/
 Disallow: /rsa/RSA-Online-Training/RSA-Online-ACT-Australian-Capital-Territory-RSA-Certificate/ACT-Images/
 Disallow: /rsa/RSA-Online-Training/RSA-Online-NSW-New-South-Wales-RSA-Certificate/NSW-Images/
 
+# new 20240313
+Disallow: /rsa/media/promo/
+
 Sitemap: https://onlinersa.com.au/sitemap.xml

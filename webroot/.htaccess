@@ -39,7 +39,14 @@ RewriteRule ^rsa/RSA-Online-Training/RSA-Online-SA-South-Australia-RSA-Certifica
 RewriteRule ^rsa/RSA-Online-Training/RSA-Online-QLD-Queensland-RSA-Certificate/.*$ /rsa/RSA-Online-Training/RSA-Online-QLD-Queensland-RSA-Certificate.html [R=301,NC,L]
 RewriteRule ^rsa/RSA-Online-Training/RSA-Online-QLD-Queensland-RSA-Certificate/RSA-QLD-Online-State-Requirements.html$ /rsa/RSA-Online-Training/RSA-Online-QLD-Queensland-RSA-Certificate.html [R=301,NC,L]
 RewriteRule ^rsa/RSA-Online-ACT-Australian-Capital-Territory-RSA-Certificate/.*$ /rsa/RSA-Online-Training/RSA-Online-ACT-Australian-Capital-Territory-RSA-Certificate.html [R=301,NC,L]
+RewriteRule ^rsa/RSA-Online-Training/RSA-Online-NT-Northern-Territory-RSA-Certificate/.*$ /rsa/RSA-Online-Training/RSA-Online-NT-Northern-Territory-RSA-Certificate.html [R=301,NC,L]
+RewriteRule ^rsa/RSA-Online-Training/RSA-Online-TAS-Tasmania-RSA-Certificate/.*$ /rsa/RSA-Online-Training/RSA-Online-TAS-Tasmania-RSA-Certificate.html [R=301,NC,L]
 RewriteRule ^content/keyword/.*$ / [R=301,NC,L]
+RewriteRule ^content/download/794/4699/version/1/file/WA-Responsible_promotion_of_liquor_for_Consumption_on_Premises.pdf$ /rsa/RSA-Online-Training/RSA-Online-WA-Western-Australia-RSA-Certificate.html [R=301,NC,L]
+RewriteRule ^rsa/Managers/Training-Manager-Enquiry-Form.html$ /rsa/Managers.html [R=301,NC,L]
+RewriteRule ^rsa/RSA-Online-Training/RSA-Online-VIC-Victoria-RSA-Certificate/VIC-Images/.*$ /rsa/RSA-Online-Training/RSA-Online-VIC-Victoria-RSA-Certificate.html [R=301,NC,L]
+RewriteRule ^rsa/Wine/Introduction-to-Wine/.*$ /rsa/Wine/Introduction-to-Wine.html [R=301,NC,L]
+RewriteRule ^rsa/Workplace-Hygiene/Workplace-Hygiene/WA-Images/rsg-wa-online-sales-support.html$ /rsa/Workplace-Hygiene.html [R=301,NC,L]
 
 
 # manually added from GSC 20240128
