@@ -24,5 +24,6 @@ Disallow: /rsa/RSA-Online-Training/RSA-Online-NSW-New-South-Wales-RSA-Certificat
 
 # new 20240313
 Disallow: /rsa/media/promo/
+Disallow: /app/
 
 Sitemap: https://onlinersa.com.au/sitemap.xml
