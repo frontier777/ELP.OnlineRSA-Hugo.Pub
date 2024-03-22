@@ -24,8 +24,12 @@ RewriteRule ^rsa/Linking.html$ /sharing/ [R=301,NC,L]
 
 # restructure site 2024 remove web3
 RewriteRule ^rsa/RSA-Online-Training/RSA-Online-ACT-Australian-Capital-Territory-RSA-Certificate/.*$ /rsa/RSA-Online-Training/RSA-Online-ACT-Australian-Capital-Territory-RSA-Certificate.html [R=301,NC,L]
-# todo: NSW release
+# todo: NSW full release
 #RewriteRule ^rsa/RSA-Online-Training/RSA-Online-NSW-New-South-Wales-RSA-Certificate/.*$ /rsa/RSA-Online-Training/RSA-Online-NSW-New-South-Wales-RSA-Certificate.html [R=301,NC,L]
+RewriteRule ^rsa/RSA-Online-Training/RSA-Online-NSW-New-South-Wales-RSA-Certificate/NSW-Images.*$ /rsa/RSA-Online-Training/RSA-Online-NSW-New-South-Wales-RSA-Certificate.html [R=301,NC,L]
+RewriteRule ^rsa/RSA-Online-Training/RSA-Online-NSW-New-South-Wales-RSA-Certificate/NSW-RSA-Online-alternate.*$ /rsa/RSA-Online-Training/RSA-Online-NSW-New-South-Wales-RSA-Certificate.html [R=301,NC,L]
+RewriteRule ^rsa/RSA-Online-Training/RSA-Online-NSW-New-South-Wales-RSA-Certificate/NSW-Right-hand-column-guarantee-RTO-FAQ-OLD.html$ /rsa/RSA-Online-Training/RSA-Online-NSW-New-South-Wales-RSA-Certificate.html [R=301,NC,L]
+
 RewriteRule ^rsa/RSA-Online-Training/RSA-Online-NT-Northern-Territory-RSA-Certificate/.*$ /rsa/RSA-Online-Training/RSA-Online-NT-Northern-Territory-RSA-Certificate.html [R=301,NC,L]
 RewriteRule ^rsa/RSA-Online-Training/RSA-Online-QLD-Queensland-RSA-Certificate/.*$ /rsa/RSA-Online-Training/RSA-Online-QLD-Queensland-RSA-Certificate.html [R=301,NC,L]
 RewriteRule ^rsa/RSA-Online-Training/RSA-Online-SA-South-Australia-RSA-Certificate/.*$ /rsa/RSA-Online-Training/RSA-Online-SA-South-Australia-RSA-Certificate.html [R=301,NC,L]
@@ -39,7 +43,11 @@ RewriteRule ^rsa/Wine/Introduction-to-Wine/.*$ /rsa/Wine/Introduction-to-Wine.ht
 RewriteRule ^rsa/Customer-Reviews/Customer-Reviews.html$ /reviews/ [R=301,NC,L]
 RewriteRule ^rsa/Managers/Training-Manager-Enquiry-Form.html$ /rsa/Managers.html [R=301,NC,L]
 RewriteRule ^content/keyword/.*$ / [R=301,NC,L]
+RewriteRule ^content/advancedsearch.html$ / [R=301,NC,L]
 RewriteRule ^content/download/794/4699/version/1/file/WA-Responsible_promotion_of_liquor_for_Consumption_on_Premises.pdf$ /rsa/RSA-Online-Training/RSA-Online-WA-Western-Australia-RSA-Certificate.html [R=301,NC,L]
+RewriteRule ^Media/.*$ / [R=301,NC,L]
+RewriteRule ^rsa/RSG/.*$ / [R=301,NC,L]
+RewriteRule ^rsa/Managers/.*$ /rsa/Managers.html [R=301,NC,L]
 
 
 # manually added from GSC 20240128
