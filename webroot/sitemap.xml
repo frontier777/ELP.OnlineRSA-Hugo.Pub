@@ -23,7 +23,7 @@
     <priority>0.2</priority>
   </url><url>
     <loc>https://onlinersa.com.au/courses/</loc>
-    <lastmod>2024-03-26T12:16:04+11:00</lastmod>
+    <lastmod>2024-03-26T13:56:54+11:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -47,13 +47,13 @@
     <changefreq>weekly</changefreq>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://onlinersa.com.au/rsa/RSA-Online-Training/RSA-Online-NSW-New-South-Wales-RSA-Certificate.html</loc>
-    <lastmod>2024-03-25T17:19:01+11:00</lastmod>
+    <loc>https://onlinersa.com.au/courses/rsa-online-nsw/</loc>
+    <lastmod>2024-03-26T13:52:57+11:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url><url>
-    <loc>https://onlinersa.com.au/rsa/RSA-Online-Training/RSA-Online-NT-Northern-Territory-RSA-Certificate.html</loc>
-    <lastmod>2024-03-25T17:19:01+11:00</lastmod>
+    <loc>https://onlinersa.com.au/courses/rsa-online-nt/</loc>
+    <lastmod>2024-03-26T13:52:57+11:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url><url>
@@ -137,18 +137,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://onlinersa.com.au/rsa/RSA-Online-Training/RSA-Online-QLD-Queensland-RSA-Certificate.html</loc>
-    <lastmod>2024-03-25T17:19:01+11:00</lastmod>
+    <loc>https://onlinersa.com.au/courses/rsa-online-qld/</loc>
+    <lastmod>2024-03-26T13:50:30+11:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url><url>
     <loc>https://onlinersa.com.au/courses/rsa-online-airlines/</loc>
-    <lastmod>2024-03-26T12:16:04+11:00</lastmod>
+    <lastmod>2024-03-26T13:52:57+11:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url><url>
-    <loc>https://onlinersa.com.au/rsa/RSA-Online-Training/RSA-Online-ACT-Australian-Capital-Territory-RSA-Certificate.html</loc>
-    <lastmod>2024-03-25T17:19:01+11:00</lastmod>
+    <loc>https://onlinersa.com.au/courses/rsa-online-act/</loc>
+    <lastmod>2024-03-26T13:52:57+11:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url><url>
@@ -203,7 +203,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://onlinersa.com.au/rsa/RSA-Online-Training/RSA-Online-SA-South-Australia-RSA-Certificate.html</loc>
-    <lastmod>2024-03-25T17:19:01+11:00</lastmod>
+    <lastmod>2024-03-26T13:52:57+11:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url><url>
@@ -213,12 +213,12 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://onlinersa.com.au/rsa/FAQ/State-by-State-Requirements.html</loc>
-    <lastmod>2024-03-26T12:16:04+11:00</lastmod>
+    <lastmod>2024-03-26T13:56:54+11:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
     <loc>https://onlinersa.com.au/rsa/RSA-Online-Training/RSA-Online-TAS-Tasmania-RSA-Certificate.html</loc>
-    <lastmod>2024-03-25T17:19:01+11:00</lastmod>
+    <lastmod>2024-03-26T13:52:57+11:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url><url>
@@ -227,13 +227,13 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://onlinersa.com.au/rsa/RSA-Online-Training/RSA-Online-VIC-Victoria-RSA-Certificate.html</loc>
-    <lastmod>2024-03-25T17:19:01+11:00</lastmod>
+    <loc>https://onlinersa.com.au/courses/rsa-online-vic/</loc>
+    <lastmod>2024-03-26T13:52:57+11:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url><url>
-    <loc>https://onlinersa.com.au/rsa/RSA-Online-Training/RSA-Online-WA-Western-Australia-RSA-Certificate.html</loc>
-    <lastmod>2024-03-25T17:19:01+11:00</lastmod>
+    <loc>https://onlinersa.com.au/courses/rsa-online-wa/</loc>
+    <lastmod>2024-03-26T13:56:54+11:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url><url>
@@ -253,7 +253,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://onlinersa.com.au/rsa/FAQ/Training-Provider.html</loc>
-    <lastmod>2024-01-24T23:11:58+11:00</lastmod>
+    <lastmod>2024-03-26T13:38:12+11:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
