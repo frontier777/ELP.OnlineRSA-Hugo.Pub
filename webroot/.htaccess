@@ -20,6 +20,7 @@ RewriteRule ^index.html$ / [R=301,NC,L]
 RewriteRule ^index.html(.+)$ /$1 [R=301,NC,L]
 
 # restructure site 2024 url structure
+RewriteRule ^rsa/RSA-Online-Training/Airlines2\.html$ /courses/rsa-online-airlines/ [R=301,NC,L]
 RewriteRule ^rsa/Linking.html$ /sharing/ [R=301,NC,L]
 
 # restructure site 2024 remove web3
@@ -48,7 +49,6 @@ RewriteRule ^content/download/794/4699/version/1/file/WA-Responsible_promotion_o
 RewriteRule ^Media/.*$ / [R=301,NC,L]
 RewriteRule ^rsa/RSG/.*$ / [R=301,NC,L]
 RewriteRule ^rsa/Managers/.*$ /rsa/Managers.html [R=301,NC,L]
-
 
 # manually added from GSC 20240128
 RewriteRule ^rsa/Login.html$ /login/ [R=301,NC,L]
