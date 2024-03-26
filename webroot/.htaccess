@@ -25,6 +25,8 @@ RewriteRule ^rsa/RSA-Online-Training/RSA-Online-ACT-Australian-Capital-Territory
 RewriteRule ^rsa/RSA-Online-Training/RSA-Online-NSW-New-South-Wales-RSA-Certificate\.html$ /courses/rsa-online-nsw/ [R=301,NC,L]
 RewriteRule ^rsa/RSA-Online-Training/RSA-Online-NT-Northern-Territory-RSA-Certificate\.html$ /courses/rsa-online-nt/ [R=301,NC,L]
 RewriteRule ^rsa/RSA-Online-Training/RSA-Online-QLD-Queensland-RSA-Certificate\.html$ /courses/rsa-online-qld/ [R=301,NC,L]
+RewriteRule ^rsa/RSA-Online-Training/RSA-Online-SA-South-Australia-RSA-Certificate\.html$ /courses/rsa-online-sa/ [R=301,NC,L]
+RewriteRule ^rsa/RSA-Online-Training/RSA-Online-TAS-Tasmania-RSA-Certificate\.html$ /courses/rsa-online-tas/ [R=301,NC,L]
 RewriteRule ^rsa/RSA-Online-Training/RSA-Online-VIC-Victoria-RSA-Certificate\.html$ /courses/rsa-online-vic/ [R=301,NC,L]
 RewriteRule ^rsa/RSA-Online-Training/RSA-Online-WA-Western-Australia-RSA-Certificate\.html$ /courses/rsa-online-wa/ [R=301,NC,L]
 
@@ -77,6 +79,8 @@ RewriteRule ^RSA-ONLINE/RSA-Online-Training/RSA-Online-WA-Western-Australia-RSA-
 RewriteRule ^rsa/RSA-Online-Training/RSA-Online-QLD-17$ /courses/rsa-online-qld/ [R=301,NC,L]
 RewriteRule ^rsa/RSA-Online-Training/RSA-Online-QLDQueensland-RSA-Certificate$ /courses/rsa-online-qld/ [R=301,NC,L]
 RewriteRule ^rsa/RSA-Online-Training/RSA-Online-QLD-$ /courses/rsa-online-qld/ [R=301,NC,L]
+RewriteRule ^index\.php/rsa-online-training$ / [R=301,NC,L]
+RewriteRule ^rsa/faq/rsa-statements-of-attainment\.html$ /rsa/FAQ/RSA-Statements-of-Attainment.html [R=301,NC,L]
 
 # manually added from GA4 20240229
 RewriteRule ^ï¿½$ / [R=301,NC,L]
