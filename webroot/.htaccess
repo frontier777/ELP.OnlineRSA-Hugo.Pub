@@ -29,6 +29,8 @@ RewriteRule ^rsa/RSA-Online-Training/RSA-Online-SA-South-Australia-RSA-Certifica
 RewriteRule ^rsa/RSA-Online-Training/RSA-Online-TAS-Tasmania-RSA-Certificate\.html$ /courses/rsa-online-tas/ [R=301,NC,L]
 RewriteRule ^rsa/RSA-Online-Training/RSA-Online-VIC-Victoria-RSA-Certificate\.html$ /courses/rsa-online-vic/ [R=301,NC,L]
 RewriteRule ^rsa/RSA-Online-Training/RSA-Online-WA-Western-Australia-RSA-Certificate\.html$ /courses/rsa-online-wa/ [R=301,NC,L]
+RewriteRule ^rsa/Wine/Introduction-to-Wine\.html$ /courses/skills-wine/ [R=301,NC,L]
+RewriteRule ^rsa/Workplace-Hygiene/Workplace-Hygiene\.html$ /courses/skills-food-handlers/ [R=301,NC,L]
 
 RewriteRule ^rsa/Linking.html$ /sharing/ [R=301,NC,L]
 
