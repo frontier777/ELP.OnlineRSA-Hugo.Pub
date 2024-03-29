@@ -7,6 +7,11 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://onlinersa.com.au/courses/rsa-online-airlines/</loc>
+    <lastmod>2024-03-29T15:29:53+11:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url><url>
     <loc>https://onlinersa.com.au/courses/skills-alcoholic-spirits/</loc>
     <lastmod>2024-03-28T18:18:43+11:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -66,16 +71,6 @@
     <lastmod>2024-01-17T15:49:45+11:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.1</priority>
-  </url><url>
-    <loc>https://onlinersa.com.au/courses/rsa-online-nsw/</loc>
-    <lastmod>2024-03-29T14:51:32+11:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url><url>
-    <loc>https://onlinersa.com.au/courses/rsa-online-nt/</loc>
-    <lastmod>2024-03-29T14:51:32+11:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
   </url><url>
     <loc>https://onlinersa.com.au/</loc>
     <lastmod>2024-03-27T15:11:37+11:00</lastmod>
@@ -162,23 +157,48 @@
     <changefreq>monthly</changefreq>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://onlinersa.com.au/courses/rsa-online-qld/</loc>
-    <lastmod>2024-03-29T14:51:32+11:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url><url>
-    <loc>https://onlinersa.com.au/courses/rsa-online-airlines/</loc>
-    <lastmod>2024-03-29T14:51:32+11:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url><url>
     <loc>https://onlinersa.com.au/courses/rsa-online-act/</loc>
-    <lastmod>2024-03-29T14:51:32+11:00</lastmod>
+    <lastmod>2024-03-29T15:30:27+11:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url><url>
     <loc>https://onlinersa.com.au/rsa/RSA-Online-Training.html</loc>
     <lastmod>2024-03-29T12:07:25+11:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url><url>
+    <loc>https://onlinersa.com.au/courses/rsa-online-nsw/</loc>
+    <lastmod>2024-03-29T15:27:16+11:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url><url>
+    <loc>https://onlinersa.com.au/courses/rsa-online-nt/</loc>
+    <lastmod>2024-03-29T15:26:39+11:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url><url>
+    <loc>https://onlinersa.com.au/courses/rsa-online-qld/</loc>
+    <lastmod>2024-03-29T15:26:58+11:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url><url>
+    <loc>https://onlinersa.com.au/courses/rsa-online-sa/</loc>
+    <lastmod>2024-03-29T15:28:44+11:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url><url>
+    <loc>https://onlinersa.com.au/courses/rsa-online-tas/</loc>
+    <lastmod>2024-03-29T15:27:52+11:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url><url>
+    <loc>https://onlinersa.com.au/courses/rsa-online-vic/</loc>
+    <lastmod>2024-03-29T15:28:34+11:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url><url>
+    <loc>https://onlinersa.com.au/courses/rsa-online-wa/</loc>
+    <lastmod>2024-03-29T15:28:28+11:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url><url>
@@ -227,11 +247,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://onlinersa.com.au/courses/rsa-online-sa/</loc>
-    <lastmod>2024-03-29T14:51:32+11:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url><url>
     <loc>https://onlinersa.com.au/same_day_rsa_certificate/</loc>
     <lastmod>2024-03-29T12:26:01+11:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -242,11 +257,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
-    <loc>https://onlinersa.com.au/courses/rsa-online-tas/</loc>
-    <lastmod>2024-03-29T14:51:32+11:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url><url>
     <loc>https://onlinersa.com.au/blog/</loc>
     <lastmod>2024-01-17T19:59:08+11:00</lastmod>
     <changefreq>daily</changefreq>
@@ -256,16 +266,6 @@
     <lastmod>2024-03-28T17:41:11+11:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
-  </url><url>
-    <loc>https://onlinersa.com.au/courses/rsa-online-vic/</loc>
-    <lastmod>2024-03-29T14:51:32+11:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url><url>
-    <loc>https://onlinersa.com.au/courses/rsa-online-wa/</loc>
-    <lastmod>2024-03-29T14:51:32+11:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
   </url><url>
     <loc>https://onlinersa.com.au/courses/skills-food-handlers/</loc>
     <lastmod>2024-03-28T17:19:23+11:00</lastmod>
