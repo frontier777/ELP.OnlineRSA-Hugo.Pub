@@ -1,1 +1,16 @@
+* text auto
 * text eol=lf
+
+*.afdesign binary
+*.afphoto binary
+*.ai binary
+*.ico binary
+*.jpeg binary
+*.jpg binary
+*.mp3 binary
+*.mp4 binary
+*.pdf binary
+*.png binary
+*.swf binary
+*.woff binary
+*.zip binary
