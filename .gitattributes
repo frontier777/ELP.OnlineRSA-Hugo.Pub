@@ -5,6 +5,7 @@
 *.afphoto binary
 *.ai binary
 *.ico binary
+*.jfif binary
 *.jpeg binary
 *.jpg binary
 *.mp3 binary
@@ -12,5 +13,6 @@
 *.pdf binary
 *.png binary
 *.swf binary
+*.webp binary
 *.woff binary
 *.zip binary
